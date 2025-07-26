@@ -1,3 +1,4 @@
+<div class="banner" align="center"><img src="https://github.com/codeAndcocoa/codeAndcocoa/blob/main/WhatsApp%20Image%202025-07-26%20at%2020.28.31.jpeg?raw=true"></div>
 <h1 align="center">Hi 👋, I'm Naglaa</h1>
 <h3 align="center">Aspiring frontend developer</h3>
 
