@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nagla__r@outlook.com**
 
-- ⚡ Fun fact **I Am a very very Lazzzy person**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
